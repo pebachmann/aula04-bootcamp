@@ -16,3 +16,7 @@ def ordenar_lista_de_numeros(numeros: list) -> list:
 nova_lista = ordenar_lista_de_numeros(lista_de_numeros)
 print(nova_lista)
 
+# funcoes sao desenvolvidas pelos engenheiros de dados e utilizados pelos times
+# disponibilizam-se as funcoes em diretorios como 'utils.py', 'aws.py'.
+# conceito DRY: Dont repeat Yourself
+#   padronização e reutilização de código em time através de funções.
